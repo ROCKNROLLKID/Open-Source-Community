@@ -1,3 +1,3 @@
 # Open-Source-Community
 
-Open-Source Community is a community designed to extend support and inspire other people into the open-source world. The group has been put onto GitHub for anyone who would like to add, edit, and remove information within the group. You may also edit and resubmit the community logo, as well.
+Open-Source Community is a community designed to extend support and inspire other people into the open-source world. The group has been put onto GitHub for anyone who would like to add, edit, and remove information within the group. You may also edit and resubmit the community logo, as well. To edit the logo, please navigate to the "Issue" section, located to the right tab bar. You will see a topic called "Community logo". YOu may edit the logo there.
