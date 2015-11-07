@@ -1,5 +1,10 @@
 Below is a list of games and software we support. Each software includes a short description of what the software is and what systems they are compatible with. For exanmple, "runs of all systems" means it can run on Windows, Linux, and Mac systems. Click on the names of each software to head to the software's homepage website.
 
+Chat related software:
+[url=hexchat.github.io]HexChat[/url] A IRC client that runs on Windows and Linux systems.
+[url=mumble.com]Mumble[/url] A voice communication software that runs on all systems.
+[url=pidgin.im]Pidgin[/url] An easy to use chat client that runs on all systems.
+
 Games and game related software:
 [url=play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
 [url=blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems
@@ -82,11 +87,9 @@ Web browsers and wed related software:
 Miscellaneous:
 [url=gnome.org/getting-gnome]GNOME[/url] A desktop environment that runs on Linux systems.
 [url=moodle.org]Moodle[/url] An online education system.
-[url=mumble.com]Mumble[/url] A voice communication software that runs on all systems.
 [url=mypaint.intilinux.com]MyPaint[/url] A painting program that runs on Windows and Linux.
 [url=obsproject.com]Open Broadcast[/url] A program for streaming that runs on all systems.
 [url=pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
-[url=pidgin.im]Pidgin[/url] An easy to use chat client that runs on all systems.
 [url=processhacker.sourceforge.net]Process Hacker[/url] An alternative to Windows task manager with more powerful monitoring tools.
 [url=getsharex.com]ShareX[/url] A screenshot and share software tool for Windows systems.
 [url=ultradefrag.sourceforge.net/en/index.html]UltraDefrag[/url] An alternative to Windows Defrag with more powerful features.
