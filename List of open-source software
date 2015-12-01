@@ -7,13 +7,22 @@ Chat related software:
 
 Games and game related software:
 [url=play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
+[url=wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements hat runs on all systems.
 [url=blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems
 [url=flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
+[url=freeciv.org]Freeciv[/url] Turn-based strategy that runs on Windows and Linux.
+[url=freedoom.github.io]Freedoom[/url] First-person shooter that runs on all systems.
 [url=gamefire.codeplex.com]GameFire[/url] A tool used to boost game performance for Windows systems.
+[url=godotengine.org]Godot Engine[/url] Advanced, feature packed, multi-platform 2D and 3D game engine that runs on all systems.
+[url=hedgewars.org]Hedgewars[/url] Turn-based strategy artillery game that runs on all systems.
 [url=megaglest.org]MegaGlest[/url] A RTS game that runs on Windows and Linux.
 [url=nexusmods.com/games]Nexus Mod Manager[/url] A tool for downloading mods for games that runs on all systems.
+[url=redeclipse.net]Red Eclipse[/url] A FPS, fast-moving, arena game that runs on all systems.
+[url=ryzom.com]Ryzom[/url] MMORPG that runs on all systems.
 [url=scorched3d.co.uk]Scorched3D[/url] An artillery tank game that runs on all systems.
+[url=supertuxkart.sourceforge.net]SuperTuxKart[/url] Kart racing game that runs on all systems.
 [url=teeworlds.com]Teeworlds[/url] A side-scrolling, multiplayer game that runs on all systems.
+[url=unvanquished.net]Unvanquished[/url] Multi-player team-based first-person shooter that runs on all systems.
 [url=wz2100.net]Warzone 2100[/url] A high quality RTS game that runs on all systems.
 [url=xonotic.org]Xonotic[/url] A FPS, fast-moving, arena game that runs on all systems.
 
@@ -28,6 +37,7 @@ Security and privacy related software:
 [url=winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
 [url=openssl.org]OpenSSL[/url] A toolkit for SSL and TSL protocols
 [url=openvpn.net]OpenVPN[/url] An VPN service and client that runs on all systems.
+[url=retroshare.sourceforge.net]Retroshare[/url] Serverless encrypted instant messenger with filesharing, chatgroups, e-mail that runs on all systems.
 [url=snort.org]Snort[/url] An intrusion prevention system that runs on all systems.
 [url=softether.org]SoftEther VPN[/url] A VPN client that runs on all systems.
 [url=torproject.org]TOR[/url] An a encrypted anonymous web browser that runs on all systems.
@@ -43,11 +53,14 @@ Office and archive related software:
 [url=peazip.org]PeaZip[/url] An alternative to WinZip and Winrar with more features that runs on Windows and Linux.
 
 Operating systems:
+[url=archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux distribution that tries to Keep It Simple.
 [url=debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
 [url=dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
+[url=gentoo.org]Gentoo[/url] Source-based, rolling release Linux distribution.
 [url=getfedora.org]Fedora[/url] An advanced technological operating system.
 [url=freebsd.org]FreeBSD[/url] An advanced operating systems with high performance ratings.
 [url=gnu.org]GNU[/url] The original Linux operating system.
+[url=manjaro.github.io]Manjaro[/url] A user-friendly GNU/Linux distribution based on the independently developed Arch Linux.
 [url=netbsd.org]NetBSD[/url] A highly portable operating system.
 [url=linuxmint.com/getinvolved.php]Linux Mint[/url] A Linux system that's based off Debian and Ubuntu.
 [url=openbsd.org]OpenBSD[/url] An advanced operating system with high security ratings.
@@ -66,19 +79,24 @@ Peer to Peer (P2P) and File Transfer Protocol (FTP) related software:
 
 Photo and video related software:
 [url=web.audacityteam.org]Audacity[/url] A audio editor and recorder that runs on all systems.
+[url=ffmpeg.org]FFmpeg[/ur] A complete, cross-platform solution to record, convert and stream audio and video for all systems.
 [url=gimp.org]GIMP[/url] A photo editing tool that runs on Linux and Windows.
 [url=kdenlive.org]Kdenlive[/url] A video editor for Linux and Mac systems.
-[url=kodi.tv/]Kodi[/url] A multi media theater program that runs on all systems.
+[url=kodi.tv]Kodi[/url] A multi media theater program that runs on all systems.
+[url=mpv.io]mpv[/url] A free, open source media player that runs on all systems.
+[url=smplayer.sourceforge.net]SMPlayer[/ur] A free media player, graphical user interface for MPlayer and mpv for Windows and Linux.
 [url=videolan.org/vlc/]VLC Player[/url] A media player with streaming and transcode support that runs on all systems.
 [url=videolan.org/vlmc]VLMC[/url] A non-linear movie creator that runs on all systems.
 
 Text and programming related software:
 [url=atom.io]Atom[/url] A hackable text editor that runs on all systems.
 [url=notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
+[url=qt.io]Qt Creator[/url] IDE that runs on all systems.
 [url=python.org]Python[/url] A programming language that runs on all systems.
 
 Web browsers and wed related software:
-[url=mozilla.org/en-US/firefox/new]FireFox[/url] A web browser for all systems.
+[url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser for all systems.
+[url=gnu.org/software/gnuzilla/]GNU IceCat[/url] A web browser based on Firefox with removed trademarked artwork and enhanced security that runs on all systems.
 [url=mysql.com]MySQL[/url] A database for websites.
 [url=openshift.com]OpenShift[/url] A hosting platform for websites.
 [url=palemoon.org]Pale Moon[/url] An alternative to Firefox that runs on Windows and Linux systems.
@@ -93,12 +111,13 @@ Miscellaneous:
 [url=git-scm.com]Git[/url] A version control system designed for speed and effiency that runs on all systems.
 [url=gnome.org]GNOME[/url] A desktop environment that runs on Linux systems.
 [url=moodle.org]Moodle[/url] An online education system.
-[url=obsproject.com]Open Broadcast[/url] A program for streaming that runs on all systems.
+[url=obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
 [url=pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
 [url=processhacker.sourceforge.net]Process Hacker[/url] An alternative to Windows task manager with more powerful monitoring tools.
+[url=maartenbaert.be/simplescreenrecorder/]SimpleScreenRecorder[/ur] A screen recorder for Linux.
 [url=getsharex.com]ShareX[/url] A screenshot and share software tool for Windows systems.
 [url=ultradefrag.sourceforge.net/en/index.html]UltraDefrag[/url] An alternative to Windows Defrag with more powerful features.
-[url=winehq.org]WineHQ[/url] A tool that allows you to run Windows software on Linux systems.
+[url=winehq.org]WineHQ[/url] A tool that allows you to run Windows software on Linux and Mac systems.
 
 Software in steam stores:
 [url=store.steampowered.com/app/365670]Blender[/url] The steam store page for Blender.
