@@ -39,7 +39,7 @@ Security and privacy related software:
 [url=snort.org]Snort[/url] An intrusion prevention system that runs on all systems.
 [url=softether.org]SoftEther VPN[/url] A VPN client that runs on all systems.
 [url=torproject.org]TOR[/url] An a encrypted anonymous web browser that runs on all systems.
-[url=ublock.org]ublock[/url] An alternative to Adblock Plus that runs on Firefox, Chrome, Opera, and Safari.
+[url=github.com/gorhill/uBlock]uBlock Origin[/url] A lightweight adblock that runs on Chrome, Firefox, Opera and Safari web browsers.
 [url=veracrypt.codeplex.com]Veracrypt[/url] A disk and file encryption based off Truecrypt that runs on all systems.
 [url=virtualbox.org]VirtualBox[/url] A virtual machine for creating virtual operating systems that runs on all systems.
 [url=wfn.codeplex.com]Windows Firewall Notifier[/url] An add-on for Windows Firewall that adds notifications for outbound connections.
