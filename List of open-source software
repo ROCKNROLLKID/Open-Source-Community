@@ -97,13 +97,17 @@ Photo and video related software:
 Text and programming related software:
 [url=atom.io]Atom[/url] A hackable text editor that runs on all systems.
 [url=http://www.codeblocks.org]Code::Blocks[/url] A integrated platform for development in C and C ++ language that runs on all systems.
+[url=curl.haxx.se]Curl[/url] A library and command line tool for transferring data with URL syntax that runs on all systems.
 [url=http://flatassembler.net]FlatAssembler[/url] An assembler that supports a massive array of assembly languages that runs on all systems.
 [url=glade.gnome.org]Glade[/url] A RAD tool used to build fast UI's that runs on all systems.
+[url=golang.org]Go[/url] A programming language that makes it easy to build simple, reliable, and efficient software that runs on all systems.
+[url=developers.google.com/protocol-buffers]Google Protocol Buffers[/url] A efficient, flexible, and automated mechanism for serializing structured data that runs on all systems.
 [url=gtk.org]GTK[/url] A multi-platform GUI builder that runs on all systems.
 [url=notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
 [url=qt.io]Qt Creator[/url] IDE that runs on all systems.
 [url=perl.org]Perl[/url] A programming language that runs on all systems.
 [url=python.org]Python[/url] A programming language that runs on all systems.
+[url=ruby-lang.org/en]Ruby[/url] A dynamic programming language which focuses on simplicity and productivity that runs on all systems.
 
 Web browsers and wed related software:
 [url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser for all systems.
