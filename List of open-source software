@@ -4,6 +4,7 @@ Chat related software:
 [url=hexchat.github.io]HexChat[/url] A IRC client that runs on all systems.
 [url=mumble.com]Mumble[/url] A voice communication software that runs on all systems.
 [url=pidgin.im]Pidgin[/url] An easy to use chat client that runs on all systems.
+[url=mozilla.org/en-US/thunderbird]Thunderbird[/url] An email client that runs on all systems.
 
 Games and game related software:
 [url=play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
@@ -77,7 +78,7 @@ Paint and art related software:
 [url=krita.org]Krita[/url] A scetching and painting program that runs on all systems.
 [url=mypaint.org]MyPaint[/url] A painting program that runs on Windows and Linux.
 
-Peer to Peer (P2P) and File Transfer Protocol (FTP) related software:
+Peer-to-Peer (P2P) and File Transfer Protocol (FTP) related software:
 [url=bitcoin.org/en]Bitcoin[/url] A P2P online currency method.
 [url=deluge-torrent.org]Deluge[/url] A torrent client based off Bittorrent that runs on all systems.
 [url=filezilla-project.org/index.php]FileZilla[/url] A FTP client and server that can run on all systems.
@@ -114,7 +115,7 @@ Text and programming related software:
 [url=ruby-lang.org/en]Ruby[/url] A dynamic programming language which focuses on simplicity and productivity that runs on all systems.
 [url=scala-lang.org/index.html]Scala[/url] A programming language which focuses on maximum code reuse and extensibility that runs on Linux an Windows systems.
 
-Web browsers and wed related software:
+Web browsers and web related software:
 [url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser for all systems.
 [url=gnu.org/software/gnuzilla]GNU IceCat[/url] A web browser based on Firefox with removed trademarked artwork and enhanced security that runs on all systems.
 [url=mysql.com]MySQL[/url] A database for websites.
@@ -123,7 +124,6 @@ Web browsers and wed related software:
 [url=phpbb.com]phpBB[/url] A forum creator for web developers.
 [url=postgresql.org]PostgreSQL[/url] A database for websites.
 [url=seamonkey-project.org]SeaMonkey[/url] A web browser and email client based off Firefox and ThunderBird that runs on all systems.
-[url=mozilla.org/en-US/thunderbird]Thunderbird[/url] An email client that runs on all systems.
 [url=waterfoxproject.org]Waterfox[/url] A native 64-bit web browser based off Firefox that runs on Windows and Mac systems.
 [url=wordpress.org]WordPress[/url] A website and blog maker for web developers.
 
@@ -140,7 +140,7 @@ Miscellaneous:
 [url=ultradefrag.sourceforge.net/en/index.html]UltraDefrag[/url] An alternative to Windows Defrag with more powerful features.
 [url=winehq.org]WineHQ[/url] A tool that allows you to run Windows software on Linux and Mac systems.
 
-Software in steam stores:
+Software in the Steam store:
 [url=store.steampowered.com/app/365670]Blender[/url] The steam store page for Blender.
 [url=store.steampowered.com/app/382490]Relic Hunters Zero[/url] The steam store page for Relic Hunters Zero.
 [url=store.steampowered.com/app/400040]ShareX[/url] The steam store page for ShareX.
