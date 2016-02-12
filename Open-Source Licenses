@@ -1,0 +1,11 @@
+This topic is to show user the different type of open-source licenses that you can use if you were to create your own program. Below is a list of licenses with a brief description about the license and what you can do with it, such as viewing, editing, and sharing, otherwise known as, [url=https://en.wikipedia.org/wiki/Copyleft]copyleft[/url].
+
+GNU General Public License (GPL): One of the most popular license used in the open-source world. The GPL license allows free use of sharing, viewing, editing of the sourcecode. The GPL license is also 100% copyleft. More information on the GPL license can be found here: https://en.wikipedia.org/wiki/GNU_General_Public_License
+
+GNU Lesser General Public License (LGPL): Similar to the regular GPL, the LGPL license offers viewing and editing of sourcecode, however, instead of being copyleft, users who use LGPL may make their programs copyright.  LGPL also allows linking to closed source binaries without making the entire program LGPL like GPL does. More information on LGPL can be found here: https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License
+
+Massachusetts Institute of Technology (MIT): The MIT license is a permissive software license. You can freely view, edit, and share the sourcecode, much like any open-source license, however, if copyrighted, you must include the original copyright and license notice for any copy of the program. More information on MIT license can be found here: https://en.wikipedia.org/wiki/MIT_License
+
+Berekeley Software Distribution (BSD): BSD is another permissive license. It is share-alike and is copyleft. The BSD license offers full view, edit, and sharing, so as long as you include the BSD copyright and license notice. More information can be found here: https://en.wikipedia.org/wiki/BSD_licenses
+
+Apache (ASL): ASL is a permissive license. It offers full privileges to view, edit and share, however, it requires a copyright notice and disclaimer to be included. More information on Apache can be found here: https://en.wikipedia.org/wiki/Apache_License
