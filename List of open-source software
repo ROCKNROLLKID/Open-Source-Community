@@ -67,14 +67,15 @@ Office and archive related software:
 [url=peazip.org]PeaZip[/url] An alternative to WinZip and Winrar with more features that runs on Windows and Linux.
 
 Operating systems:
-[url=archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to Keep It Simple.
+[url=archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to keep it simple.
 [url=centos.org]CentOS[/url] A secure, low-maintenance, and reliable Linux system.
-[url=https://www.debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
+[url=debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
 [url=dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
-[url=gentoo.org]Gentoo[/url] Source-based, rolling release Linux system.
 [url=getfedora.org]Fedora[/url] An advanced technological operating system.
 [url=freebsd.org]FreeBSD[/url] An advanced operating systems with high performance ratings.
+[url=gentoo.org]Gentoo[/url] Source-based, rolling release Linux system.
 [url=gnu.org]GNU[/url] The original Linux operating system.
+[url=hardenedbsd.org]HardenedBSD[/url] A FreeBSD clone copy that enhances security.
 [url=mageia.org/en/about]Mageia[/url] A Linux operating system that focuses on building great tools.
 [url=manjaro.github.io]Manjaro[/url] A user-friendly, GNU/Linux system based on the independently developed Arch Linux.
 [url=netbsd.org]NetBSD[/url] A highly portable operating system.
@@ -107,11 +108,11 @@ Photo and video related software:
 Text and programming related software:
 [url=atom.io]Atom[/url] A hackable text editor that runs on all systems.
 [url=clojure.org]Clojure[/url] A robust, practical, and fast programming language that runs on all systems.
-[url=http://www.codeblocks.org]Code::Blocks[/url] A integrated platform for development in C and C ++ language that runs on all systems.
+[url=codeblocks.org]Code::Blocks[/url] A integrated platform for development in C and C ++ language that runs on all systems.
 [url=curl.haxx.se]Curl[/url] A library and command line tool for transferring data with URL syntax that runs on all systems.
 [url=erlang.org]Erlang[/url] A real-time programming language that runs on all systems.
 [url=fsharp.org]F#[/url] A mature, functional-first programming language that runs on all systems.
-[url=http://flatassembler.net]FlatAssembler[/url] An assembler that supports a massive array of assembly languages that runs on all systems.
+[url=flatassembler.net]FlatAssembler[/url] An assembler that supports a massive array of assembly languages that runs on all systems.
 [url=glade.gnome.org]Glade[/url] A RAD tool used to build fast UI's that runs on all systems.
 [url=golang.org]Go[/url] A programming language that makes it easy to build simple, reliable, and efficient software that runs on all systems.
 [url=developers.google.com/protocol-buffers]Google Protocol Buffers[/url] A efficient, flexible, and automated mechanism for serializing structured data that runs on all systems.
@@ -120,12 +121,14 @@ Text and programming related software:
 [url=lua.org]Lua[/url] A powerful, fast scripting language that runs on all systems.
 [url=gnu.org/software/ncurses/ncurses.html]Ncurses[/url] A software emulation of curses in System V Release 4.0 that runs on Linux and Mac systems.
 [url=notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
+[url=opentk.com]Open Toolkit[/url] A low-level, C# library that wraps OpenGL, OpenCL and OpenAL that runs on all systems.
 [url=perl.org]Perl[/url] A programming language that runs on all systems.
 [url=python.org]Python[/url] A programming language that runs on all systems.
 [url=qt.io]Qt Creator[/url] IDE that runs on all systems.
 [url=ruby-lang.org/en]Ruby[/url] A dynamic programming language which focuses on simplicity and productivity that runs on all systems.
 [url=scala-lang.org/index.html]Scala[/url] A programming language which focuses on maximum code reuse and extensibility that runs on Linux an Windows systems.
-[url=https://wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
+[url=sharpdx.org]SharpDX[/url] A managed .NET wrapper of the DirectX API for Windows systems.
+[url=wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
 
 Web browsers and web related software:
 [url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser for all systems.
