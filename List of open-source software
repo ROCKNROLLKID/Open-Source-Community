@@ -10,6 +10,7 @@ Chat related software:
 
 Games and game related software:
 [url=play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
+[url=atomicgameengine.com]Atomic Game Engine[/url] A 3D game engine that can run on all systems.
 [url=wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements hat runs on all systems.
 [url=blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems
 [url=flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
@@ -51,6 +52,7 @@ Security and privacy related software:
 [url=winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
 [url=openssl.org]OpenSSL[/url] A toolkit for SSL and TSL protocols
 [url=openvpn.net]OpenVPN[/url] An VPN service and client that runs on all systems.
+[url=ossec.github.io]OSSEC[/url] A host intrusion detection system that can run on all systems.
 [url=retroshare.sourceforge.net]Retroshare[/url] Serverless encrypted instant messenger with filesharing, chatgroups, e-mail that runs on all systems.
 [url=snort.org]Snort[/url] An intrusion prevention system that runs on all systems.
 [url=softether.org]SoftEther VPN[/url] A VPN client that runs on all systems.
@@ -121,6 +123,7 @@ Text and programming related software:
 [url=lua.org]Lua[/url] A powerful, fast scripting language that runs on all systems.
 [url=gnu.org/software/ncurses/ncurses.html]Ncurses[/url] A software emulation of curses in System V Release 4.0 that runs on Linux and Mac systems.
 [url=notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
+[url=opencv.org]OpenCV[/url] A computer vision and machine learning software library that runs on all systems.
 [url=opentk.com]Open Toolkit[/url] A low-level, C# library that wraps OpenGL, OpenCL and OpenAL that runs on all systems.
 [url=perl.org]Perl[/url] A programming language that runs on all systems.
 [url=python.org]Python[/url] A programming language that runs on all systems.
@@ -143,11 +146,14 @@ Web browsers and web related software:
 [url=wordpress.org]WordPress[/url] A website and blog maker for web developers.
 
 Miscellaneous:
+[url=asterisk.org]Asterisk[/url] A framework for building communications applications for Windows systems.
 [url=github.com/brndnmtthws/conky]Conky[/url] A light-weight system monitor for Linux systems.
 [url=drupal.org]Drupal[/url] A content management framework that runs on all systems.
 [url=git-scm.com]Git[/url] A version control system designed for speed and effiency that runs on all systems.
 [url=gnome.org]GNOME[/url] A desktop environment that runs on Linux systems.
+[url=jrsoftware.org/isinfo.php]Inno Setup[/url] A installer for Windows systems.
 [url=moodle.org]Moodle[/url] An online education system.
+[url=nsis.sourceforge.net/Main_Page]NISI[/url] A installer for Windows systems.
 [url=obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
 [url=whispersystems.org]Open Whispers System[/url] A close of Whispers System that can run on Android and Apple phones.
 [url=pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
