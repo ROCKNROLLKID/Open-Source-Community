@@ -2,13 +2,13 @@ Below is a list of games and software we support. Each software includes a short
 
 Note: Steam store pages are included at the bottom of the list.
 
-Chat related software:
+[b]Chat related software:[/b]
 [url=hexchat.github.io]HexChat[/url] A IRC client that runs on all systems.
 [url=mumble.com]Mumble[/url] A voice communication software that runs on all systems.
 [url=pidgin.im]Pidgin[/url] An easy to use chat client that runs on all systems.
 [url=mozilla.org/en-US/thunderbird]Thunderbird[/url] An email client that runs on all systems.
 
-Games and game related software:
+[b]Games and game related software:[/b]
 [url=play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
 [url=atomicgameengine.com]Atomic Game Engine[/url] A 3D game engine that can run on all systems.
 [url=wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements hat runs on all systems.
@@ -41,7 +41,7 @@ Games and game related software:
 [url=wz2100.net]Warzone 2100[/url] A high quality RTS game that runs on all systems.
 [url=xonotic.org]Xonotic[/url] A FPS, fast-moving, arena game that runs on all systems.
 
-Security and privacy related software:
+[b]Security and privacy related software:[/b]
 [url=adblockplus.org]Adblock Plus[/url] An Adblocker that runs on all web browsers.
 [url=bleachbit.sourceforge.net]BleachBit[/url] A privacy sweeper for Windows and Linux systems.
 [url=clamav.net/index.html]ClamAV[/url] An anti-virus for Linux and Mac systems.
@@ -62,13 +62,13 @@ Security and privacy related software:
 [url=virtualbox.org]VirtualBox[/url] A virtual machine for creating virtual operating systems that runs on all systems.
 [url=wfn.codeplex.com]Windows Firewall Notifier[/url] An add-on for Windows Firewall that adds notifications for outbound connections.
 
-Office and archive related software:
-[url=7-zip.org]7-Zip[/url] An alternative to Winrar and Winzip with better compression ratios that runs on all systems.
-[url=libreoffice.org]LibreOffice[/url] An alternative to Microsoft Office that can run on all systems.
-[url=openoffice.org]OpenOffice[/url] An alternative to Microsoft Office with more features that runs on all systems.
-[url=peazip.org]PeaZip[/url] An alternative to WinZip and Winrar with more features that runs on Windows and Linux.
+[b]Office and archive related software:[/b]
+[url=7-zip.org]7-Zip[/url] An archiver with high compression ratios that run on all systems.
+[url=libreoffice.org]LibreOffice[/url] A powerful office suite that runs on all systems.
+[url=openoffice.org]OpenOffice[/url] An office suite with lots of features that runs on all systems.
+[url=peazip.org]PeaZip[/url] A full-features archives that runs on Windows and Linux.
 
-Operating systems:
+[b]Operating systems:[/b]
 [url=archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to keep it simple.
 [url=centos.org]CentOS[/url] A secure, low-maintenance, and reliable Linux system.
 [url=debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
@@ -88,17 +88,17 @@ Operating systems:
 [url=web.syllable.org/pages/index.html]Syllable[/url] A Linux operating system that recreates Amiga and BeOS.
 [url=ubuntu.com]Ubuntu[/url] A Linux operating system with cloud support.
 
-Paint and art related software:
+[b]Paint and art related software:[/b]
 [url=krita.org]Krita[/url] A scetching and painting program that runs on all systems.
 [url=mypaint.org]MyPaint[/url] A painting program that runs on Windows and Linux.
 
-Peer-to-Peer (P2P) and File Transfer Protocol (FTP) related software:
+[b]Peer-to-Peer (P2P) and File Transfer Protocol (FTP) related software:[/b]
 [url=bitcoin.org/en]Bitcoin[/url] A P2P online currency method.
 [url=deluge-torrent.org]Deluge[/url] A torrent client based off Bittorrent that runs on all systems.
 [url=filezilla-project.org/index.php]FileZilla[/url] A FTP client and server that can run on all systems.
 [url=qbittorrent.org]qBittorrent[/url] A torrent client that is based off Bittorrent that runs on all systems.
 
-Photo and video related software:
+[b]Photo and video related software:[/b]
 [url=web.audacityteam.org]Audacity[/url] A audio editor and recorder that runs on all systems.
 [url=ffmpeg.org]FFmpeg[/url] A complete, cross-platform solution to record, convert and stream audio and video for all systems.
 [url=gimp.org]GIMP[/url] A photo editing tool that runs on Linux and Windows.
@@ -109,7 +109,7 @@ Photo and video related software:
 [url=videolan.org/vlc/]VLC Player[/url] A media player with streaming and transcode support that runs on all systems.
 [url=videolan.org/vlmc]VLMC[/url] A non-linear movie creator that runs on all systems.
 
-Text and programming related software:
+[b]Text and programming related software:[/b]
 [url=atom.io]Atom[/url] A hackable text editor that runs on all systems.
 [url=clojure.org]Clojure[/url] A robust, practical, and fast programming language that runs on all systems.
 [url=codeblocks.org]Code::Blocks[/url] A integrated platform for development in C and C ++ language that runs on all systems.
@@ -135,18 +135,18 @@ Text and programming related software:
 [url=sharpdx.org]SharpDX[/url] A managed .NET wrapper of the DirectX API for Windows systems.
 [url=wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
 
-Web browsers and web related software:
-[url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser for all systems.
+[b]Web browsers and web related software:[/b]
+[url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser that runs on all systems.
 [url=gnu.org/software/gnuzilla]GNU IceCat[/url] A web browser based on Firefox with removed trademarked artwork and enhanced security that runs on all systems.
 [url=mysql.com]MySQL[/url] A database for websites.
-[url=palemoon.org]Pale Moon[/url] An alternative to Firefox that runs on Windows and Linux systems.
+[url=palemoon.org]Pale Moon[/url] A web browser that focuses of effiency and ease of use that runs on Windows and Linux systems.
 [url=phpbb.com]phpBB[/url] A forum creator for web developers.
 [url=postgresql.org]PostgreSQL[/url] A database for websites.
 [url=seamonkey-project.org]SeaMonkey[/url] A web browser and email client based off Firefox and ThunderBird that runs on all systems.
 [url=waterfoxproject.org]Waterfox[/url] A native 64-bit web browser based off Firefox that runs on Windows and Mac systems.
 [url=wordpress.org]WordPress[/url] A website and blog maker for web developers.
 
-Miscellaneous:
+[b]Miscellaneous:[/b]
 [url=asterisk.org]Asterisk[/url] A framework for building communications applications for Linux systems.
 [url=github.com/brndnmtthws/conky]Conky[/url] A light-weight system monitor for Linux systems.
 [url=drupal.org]Drupal[/url] A content management framework that runs on all systems.
@@ -156,17 +156,17 @@ Miscellaneous:
 [url=moodle.org]Moodle[/url] An online education system.
 [url=nsis.sourceforge.net/Main_Page]NISI[/url] A installer for Windows systems.
 [url=obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
-[url=whispersystems.org]Open Whispers System[/url] A close of Whispers System that can run on Android and Apple phones.
+[url=whispersystems.org]Open Whispers System[/url] A clone of Whispers System that can run on Android and Apple phones.
 [url=pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
-[url=processhacker.sourceforge.net]Process Hacker[/url] An alternative to Windows task manager with more powerful monitoring tools.
+[url=processhacker.sourceforge.net]Process Hacker[/url] A task manager with powerful monitoring tools for Windows systems.
 [url=getsharex.com]ShareX[/url] A screenshot and share software tool for Windows systems.
 [url=speex.org]Speex[/url] A codec for free speech that runs on all systems.
 [url=tigervnc.org]TigerVNC[/url] A remote client and server focused on performance and functionality that runs on all systems.
 [url=tox.chat/index.html]Tox[/url] A secure, with encrpytion support, instant messanger that can run on all systems.
-[url=ultradefrag.sourceforge.net/en/index.html]UltraDefrag[/url] An alternative to Windows Defrag with more powerful features.
+[url=ultradefrag.sourceforge.net/en/index.html]UltraDefrag[/url] A defragger with advanced features for Windows systems.
 [url=winehq.org]WineHQ[/url] A tool that allows you to run Windows software on Linux and Mac systems.
 
-Software in the Steam store:
+[b]Software in the Steam store:[/b]
 [url=store.steampowered.com/app/365670]Blender[/url] The steam store page for Blender.
 [url=store.steampowered.com/app/404790]Godot Engine[/url] The steam store page for Godot Engine.
 [url=store.steampowered.com/app/382490]Relic Hunters Zero[/url] The steam store page for Relic Hunters Zero.
