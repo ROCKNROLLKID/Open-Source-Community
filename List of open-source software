@@ -50,6 +50,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=clamwin.com]ClamWin[/url] An anti-virus for Windows that runs off the ClamAV engine.
 [url=cuckoosandbox.org]Cuckcoo Sandbox[/url] A sandbox program that runs on all systems.
 [url=eraser.heidi.ie]Eraser[/url] A powerful file deleter with overwrite capabilites for Windows.
+[url=eff.org/https-everywhere]HTTPS Everywhere[/url] A plugin to make force HTTPS on all websites that runs on Firefox, Chrome, and Opera.
 [url=modsecurity.org]Mod Security[/url] A web application firewall that runs on all systems.
 [url=winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
 [url=openssl.org]OpenSSL[/url] A toolkit for SSL and TSL protocols
@@ -138,6 +139,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
 
 [b]Web browsers and web related software:[/b]
+[url=brave.com]Brave[/url] A web browser that automatically blocks ads and tracking that runs on all systems.
 [url=mozilla.org/en-US/firefox/new]Firefox[/url] A web browser that runs on all systems.
 [url=gnu.org/software/gnuzilla]GNU IceCat[/url] A web browser based on Firefox with removed trademarked artwork and enhanced security that runs on all systems.
 [url=mysql.com]MySQL[/url] A database for websites.
@@ -152,6 +154,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=asterisk.org]Asterisk[/url] A framework for building communications applications for Linux systems.
 [url=github.com/brndnmtthws/conky]Conky[/url] A light-weight system monitor for Linux systems.
 [url=drupal.org]Drupal[/url] A content management framework that runs on all systems.
+[url=f-droid.org]F-Droid[/url] A app to keep track of updates on mobile Android devices.
 [url=git-scm.com]Git[/url] A version control system designed for speed and effiency that runs on all systems.
 [url=gnome.org]GNOME[/url] A desktop environment that runs on Linux systems.
 [url=jrsoftware.org/isinfo.php]Inno Setup[/url] A installer for Windows systems.
