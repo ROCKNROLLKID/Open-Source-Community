@@ -77,7 +77,9 @@ Note: Steam store pages are included at the bottom of the list.
 [url=archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to keep it simple.
 [url=centos.org]CentOS[/url] A secure, low-maintenance, and reliable Linux system.
 [url=debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
+[url=https://www.deepin.org]Deepin[/url] A operating system based off Debian in a more powerful environment.
 [url=dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
+[url=https://elementary.io]Elementary OS[/url] A operating system design to be a replacement for Windows and Mac.
 [url=getfedora.org]Fedora[/url] An advanced technological operating system.
 [url=freebsd.org]FreeBSD[/url] An advanced operating systems with high performance ratings.
 [url=gentoo.org]Gentoo[/url] Source-based, rolling release Linux system.
@@ -89,7 +91,11 @@ Note: Steam store pages are included at the bottom of the list.
 [url=netbsd.org]NetBSD[/url] A highly portable operating system.
 [url=openbsd.org]OpenBSD[/url] An advanced operating system with high security ratings.
 [url=opensuse.org]OpenSUSE[/url] A linux system that promotes the use of Linux everywhere.
+[url=http://papyros.io]Papyro[/url] A linux system design to bring more modern features and material design.
+[url=http://web.pcbsd.org]PC-BSD[/url] A BSD system designed for server use and a more desktop friendly environment.
+[url=http://puppylinux.org/main/Overview%20and%20Getting%20Started.htm]Puppy Linux[/url] A linux system designed to be fast, safe and portable.
 [url=reactos.org]ReactOS[/url] A operating system that can run most Windows software and drivers.
+[url=https://www.scientificlinux.org]Scientific Linux[/url] A linux based operating system designed for enterprise use.
 [url=web.syllable.org/pages/index.html]Syllable[/url] A Linux operating system that recreates Amiga and BeOS.
 [url=ubuntu.com]Ubuntu[/url] A Linux operating system with cloud support.
 [url=https://zorinos.com/index.html]Zorin OS[/url] A Linux system based off Ubuntu that is designed to look like Windows operating systems.
@@ -111,6 +117,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=kdenlive.org]Kdenlive[/url] A video editor for Linux and Mac systems.
 [url=kodi.tv]Kodi[/url] A multi media theater program that runs on all systems.
 [url=mpv.io]mpv[/url] A free, open source media player that runs on all systems.
+[url=http://www.openshot.org]OpenShot[/url] A video editor designed to be easy to use for making movies that runs on all systems.
 [url=smplayer.sourceforge.net]SMPlayer[/url] A free media player, graphical user interface for MPlayer and mpv for Windows and Linux.
 [url=videolan.org/vlc/]VLC Player[/url] A media player with streaming and transcode support that runs on all systems.
 [url=videolan.org/vlmc]VLMC[/url] A non-linear movie creator that runs on all systems.
