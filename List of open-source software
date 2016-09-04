@@ -13,14 +13,14 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://atomicgameengine.com]Atomic Game Engine[/url] A 3D game engine that can run on all systems.
 [url=https://wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements hat runs on all systems.
 [url=https://blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems
-[url=https://flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
+[url=http://flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
 [url=https://godotengine.org]Godot Engine[/url] Advanced, feature packed, multi-platform 2D and 3D game engine that runs on all systems.
 [url=http://gzdoom.drdteam.org]GZDoom[/url] A source port engien for ID Tech 1 that adds endless possibilities and OpenGL.
 [url=https://hedgewars.org]Hedgewars[/url] Turn-based strategy artillery game that runs on all systems.
 [url=https://megaglest.org]MegaGlest[/url] A RTS game that runs on Windows and Linux.
 [url=https://minetest.net]Minetest[/url] A Voxel game engine and sandbox game that runs on all systems.
-[url=https://nexusmods.com/games]Nexus Mod Manager[/url] A tool for downloading mods for games that runs on all systems.
-[url=https://oolite.org]Oolite[/url] An open-world, space opera game that runs on all systems.
+[url=http://nexusmods.com/games]Nexus Mod Manager[/url] A tool for downloading mods for games that runs on all systems.
+[url=http://oolite.org]Oolite[/url] An open-world, space opera game that runs on all systems.
 [url=https://openage.sft.mx]OpenAge[/url] A clone of Age of Empires 2 that runs on all systems.
 [url=https://openmw.org]OpenMW[/url] A game engine based on the Morrowind engine that runs on all systems.
 [url=https://openra.net]OpenRA[/url] A RTS engine that recreates the classic Command and Conquer games that runs on all systems.
@@ -29,10 +29,10 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://pixeldungeon.watabou.ru]Pixel Dungeon[/url] A rougelike game that runs on all systems.
 [url=https://redeclipse.net]Red Eclipse[/url] A FPS, fast-moving, arena game that runs on all systems.
 [url=https://relichunters.com.br]Relic Hunters Zero[/url] A fast paced, shooter that runs on Windows and Mac systems.
-[url=https://ryzom.com]Ryzom[/url] MMORPG that runs on all systems.
-[url=https://scorched3d.co.uk]Scorched3D[/url] An artillery tank game that runs on all systems.
+[url=http://ryzom.com]Ryzom[/url] MMORPG that runs on all systems.
+[url=http://scorched3d.co.uk]Scorched3D[/url] An artillery tank game that runs on all systems.
 [url=https://springrts.com/]Spring RTS Engine[/url] A RTS game engine that runs on all systems.
-[url=https://supertuxkart.sourceforge.net]SuperTuxKart[/url] Kart racing game that runs on all systems.
+[url=http://supertuxkart.sourceforge.net]SuperTuxKart[/url] Kart racing game that runs on all systems.
 [url=https://w84death.itch.io/tanks-of-freedom]Tanks of Freedom[/url] A turn-based strategy game that runs on all systems.
 [url=https://teeworlds.com]Teeworlds[/url] A side-scrolling, multiplayer game that runs on all systems.
 [url=https://ufoai.org/wiki/News]UFO Alien Invasion[/url] A turned-based RTS game that runs on all systems.
@@ -47,18 +47,18 @@ Note: Steam store pages are included at the bottom of the list.
 
 [b]Security and privacy related software:[/b]
 [url=https://adblockplus.org]Adblock Plus[/url] An Adblocker that runs on all web browsers.
-[url=https://bleachbit.sourceforge.net]BleachBit[/url] A privacy sweeper for Windows and Linux systems.
+[url=https://www.bleachbit.org/]BleachBit[/url] A privacy sweeper for Windows and Linux systems.
 [url=https://clamav.net/index.html]ClamAV[/url] An anti-virus for Linux and Mac systems.
-[url=https://clamwin.com]ClamWin[/url] An anti-virus for Windows that runs off the ClamAV engine.
+[url=http://clamwin.com]ClamWin[/url] An anti-virus for Windows that runs off the ClamAV engine.
 [url=https://cuckoosandbox.org]Cuckcoo Sandbox[/url] A sandbox program that runs on all systems.
 [url=https://eraser.heidi.ie]Eraser[/url] A powerful file deleter with overwrite capabilites for Windows.
 [url=https://eff.org/https-everywhere]HTTPS Everywhere[/url] A plugin to force HTTPS on all websites that runs on Firefox, Chrome, and Opera.
 [url=https://modsecurity.org]Mod Security[/url] A web application firewall that runs on all systems.
-[url=https://winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
+[url=http://winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
 [url=https://openssl.org]OpenSSL[/url] A toolkit for SSL and TSL protocols
 [url=https://openvpn.net]OpenVPN[/url] An VPN service and client that runs on all systems.
 [url=https://ossec.github.io]OSSEC[/url] A host intrusion detection system that can run on all systems.
-[url=https://retroshare.sourceforge.net]Retroshare[/url] Serverless encrypted instant messenger with filesharing, chatgroups, e-mail that runs on all systems.
+[url=http://retroshare.sourceforge.net]Retroshare[/url] Serverless encrypted instant messenger with filesharing, chatgroups, e-mail that runs on all systems.
 [url=https://snort.org]Snort[/url] An intrusion prevention system that runs on all systems.
 [url=https://softether.org]SoftEther VPN[/url] A VPN client that runs on all systems.
 [url=https://torproject.org]TOR[/url] An a encrypted anonymous web browser that runs on all systems.
@@ -68,17 +68,17 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://wfn.codeplex.com]Windows Firewall Notifier[/url] An add-on for Windows Firewall that adds notifications for outbound connections.
 
 [b]Office and archive related software:[/b]
-[url=https://7-zip.org]7-Zip[/url] An archiver with high compression ratios that run on all systems.
+[url=http://7-zip.org]7-Zip[/url] An archiver with high compression ratios that run on all systems.
 [url=https://libreoffice.org]LibreOffice[/url] A powerful office suite that runs on all systems.
 [url=https://openoffice.org]OpenOffice[/url] An office suite with lots of features that runs on all systems.
-[url=https://peazip.org]PeaZip[/url] A full-features archives that runs on Windows and Linux.
+[url=http://peazip.org]PeaZip[/url] A full-features archives that runs on Windows and Linux.
 
 [b]Operating systems:[/b]
 [url=https://archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to keep it simple.
 [url=https://centos.org]CentOS[/url] A secure, low-maintenance, and reliable Linux system.
 [url=https://debian.org]Debian[/url] A feature rich operating system based off the Linux kernel.
 [url=https://www.deepin.org]Deepin[/url] A operating system based off Debian in a more powerful environment.
-[url=https://dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
+[url=http://dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
 [url=https://elementary.io]Elementary OS[/url] A operating system design to be a replacement for Windows and Mac.
 [url=https://getfedora.org]Fedora[/url] An advanced technological operating system.
 [url=https://freebsd.org]FreeBSD[/url] An advanced operating systems with high performance ratings.
@@ -90,7 +90,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://manjaro.github.io]Manjaro[/url] A user-friendly, GNU/Linux system based on the independently developed Arch Linux.
 [url=https://netbsd.org]NetBSD[/url] A highly portable operating system.
 [url=https://openbsd.org]OpenBSD[/url] An advanced operating system with high security ratings.
-[url=https://opensuse.org]OpenSUSE[/url] A linux system that promotes the use of Linux everywhere.
+[url=http://opensuse.org]OpenSUSE[/url] A linux system that promotes the use of Linux everywhere.
 [url=http://papyros.io]Papyro[/url] A linux system design to bring more modern features and material design.
 [url=http://web.pcbsd.org]PC-BSD[/url] A BSD system designed for server use and a more desktop friendly environment.
 [url=http://puppylinux.org/main/Overview%20and%20Getting%20Started.htm]Puppy Linux[/url] A linux system designed to be fast, safe and portable.
@@ -106,9 +106,9 @@ Note: Steam store pages are included at the bottom of the list.
 
 [b]Peer-to-Peer (P2P) and File Transfer Protocol (FTP) related software:[/b]
 [url=https://bitcoin.org/en]Bitcoin[/url] A P2P online currency method.
-[url=https://deluge-torrent.org]Deluge[/url] A torrent client based off Bittorrent that runs on all systems.
+[url=http://deluge-torrent.org]Deluge[/url] A torrent client based off Bittorrent that runs on all systems.
 [url=https://filezilla-project.org/index.php]FileZilla[/url] A FTP client and server that can run on all systems.
-[url=https://qbittorrent.org]qBittorrent[/url] A torrent client that is based off Bittorrent that runs on all systems.
+[url=http://qbittorrent.org]qBittorrent[/url] A torrent client that is based off Bittorrent that runs on all systems.
 
 [b]Photo and video related software:[/b]
 [url=https://web.audacityteam.org]Audacity[/url] A audio editor and recorder that runs on all systems.
@@ -136,7 +136,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://gtk.org]GTK[/url] A multi-platform GUI builder that runs on all systems.
 [url=https://haskell.org]Haskell[/url] An advanced purely-functional programming language thats runs on all systems.
 [url=https://lua.org]Lua[/url] A powerful, fast scripting language that runs on all systems.
-[url=https://gnu.org/software/ncurses/ncurses.html]Ncurses[/url] A software emulation of curses in System V Release 4.0 that runs on Linux and Mac systems.
+[url=http://gnu.org/software/ncurses/ncurses.html]Ncurses[/url] A software emulation of curses in System V Release 4.0 that runs on Linux and Mac systems.
 [url=https://notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
 [url=https://opencv.org]OpenCV[/url] A computer vision and machine learning software library that runs on all systems.
 [url=https://opentk.com]Open Toolkit[/url] A low-level, C# library that wraps OpenGL, OpenCL and OpenAL that runs on all systems.
@@ -170,12 +170,12 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://jrsoftware.org/isinfo.php]Inno Setup[/url] A installer for Windows systems.
 [url=https://lutris.net]Lutris[/url] A gaming platform for Linux systems.
 [url=https://moodle.org]Moodle[/url] An online education system.
-[url=https://nsis.sourceforge.net/Main_Page]NSIS[/url] A installer for Windows systems.
+[url=http://nsis.sourceforge.net/Main_Page]NSIS[/url] A installer for Windows systems.
 [url=https://obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
 [url=https://whispersystems.org]Open Whispers System[/url] A clone of Whispers System that can run on Android and Apple phones.
-[url=https://pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
+[url=http://pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
 [url=https://www.playonlinux.com]PlayOnLinux[/url] A tool based off Wine that allows you to run Windows software on Linux.
-[url=https://processhacker.sourceforge.net]Process Hacker[/url] A task manager with powerful monitoring tools for Windows systems.
+[url=http://processhacker.sourceforge.net]Process Hacker[/url] A task manager with powerful monitoring tools for Windows systems.
 [url=https://sourceforge.net/projects/q4wine]Q4Wine[/url] A QT GUI for Wine that runs on Linux and Mac systems.
 [url=https://getsharex.com]ShareX[/url] A screenshot and share software tool for Windows systems.
 [url=https://speex.org]Speex[/url] A codec for free speech that runs on all systems.
@@ -186,10 +186,10 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://winehq.org]WineHQ[/url] A tool that allows you to run Windows software on Linux and Mac systems.
 
 [b]Software in the Steam store:[/b]
-[url=store.steampowered.com/app/365670]Blender[/url] The steam store page for Blender.
-[url=store.steampowered.com/app/404790]Godot Engine[/url] The steam store page for Godot Engine.
-[url=store.steampowered.com/app/382490]Relic Hunters Zero[/url] The steam store page for Relic Hunters Zero.
-[url=store.steampowered.com/app/373720/?snr=1_5_1100__1100]Ryzom[/url] The steam store page for Ryzom.
-[url=store.steampowered.com/app/400040]ShareX[/url] The steam store page for ShareX.
-[url=store.steampowered.com/app/380840]Teeworlds[/url] The steam store page for Teeworlds.
-[url=store.steampowered.com/app/370070/?snr=1_5_1100__1100]Wyrmsun[/url] The steam store page for Wyrmsun.
+[url=https://store.steampowered.com/app/365670]Blender[/url] The steam store page for Blender.
+[url=https://store.steampowered.com/app/404790]Godot Engine[/url] The steam store page for Godot Engine.
+[url=https://store.steampowered.com/app/382490]Relic Hunters Zero[/url] The steam store page for Relic Hunters Zero.
+[url=https://store.steampowered.com/app/373720/?snr=1_5_1100__1100]Ryzom[/url] The steam store page for Ryzom.
+[url=https://store.steampowered.com/app/400040]ShareX[/url] The steam store page for ShareX.
+[url=https://store.steampowered.com/app/380840]Teeworlds[/url] The steam store page for Teeworlds.
+[url=https://store.steampowered.com/app/370070/?snr=1_5_1100__1100]Wyrmsun[/url] The steam store page for Wyrmsun.
