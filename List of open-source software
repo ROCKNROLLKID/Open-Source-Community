@@ -154,8 +154,10 @@ Note: Steam store pages are included at the bottom of the list.
 
 [b]Web browsers and web related software:[/b]
 [url=https://brave.com]Brave[/url] A web browser that automatically blocks ads and tracking that runs on all systems.
+[url=https://www.chromium.org/Home]Chromium[/url] A browser designed to be fast, secure, and stable that runs on all systems.
 [url=https://mozilla.org/en-US/firefox/new]Firefox[/url] A web browser that runs on all systems.
 [url=https://gnu.org/software/gnuzilla]GNU IceCat[/url] A web browser based on Firefox with removed trademarked artwork and enhanced security that runs on all systems.
+[url=http://midori-browser.org]Midori[/url] A lightweight and fast web browser that runs on Windows and Linux systems.
 [url=https://mysql.com]MySQL[/url] A database for websites.
 [url=https://palemoon.org]Pale Moon[/url] A web browser that focuses of effiency and ease of use that runs on Windows and Linux systems.
 [url=https://phpbb.com]phpBB[/url] A forum creator for web developers.
@@ -169,13 +171,17 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://github.com/brndnmtthws/conky]Conky[/url] A light-weight system monitor for Linux systems.
 [url=https://drupal.org]Drupal[/url] A content management framework that runs on all systems.
 [url=https://f-droid.org]F-Droid[/url] A respository to keep track of FOSS related apps for mobile Android.
+[url=https://www.freetype.org/index.html]FreeType[/url] A software library to render fonts that runs on Windows and Linux systems.
 [url=https://git-scm.com]Git[/url] A version control system designed for speed and effiency that runs on all systems.
 [url=https://gnome.org]GNOME[/url] A desktop environment that runs on Linux systems.
+[url=http://www.gnucash.org]GNU Cash[/url] A small financial-accounting software that runs on all systems.
 [url=https://jrsoftware.org/isinfo.php]Inno Setup[/url] A installer for Windows systems.
+[url=https://evergreen-ils.org]Evergreen[/url] A highly-scalable software for libraries that helps find library materials that runs on all systems.
 [url=https://lutris.net]Lutris[/url] A gaming platform for Linux systems.
 [url=https://moodle.org]Moodle[/url] An online education system.
 [url=http://nsis.sourceforge.net/Main_Page]NSIS[/url] A installer for Windows systems.
 [url=https://obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
+[url=http://openvswitch.github.io]Open vSwitch[/url] A production quality, multilayer virtual switch that runs on Linux systems.
 [url=https://whispersystems.org]Open Whispers System[/url] A clone of Whispers System that can run on Android and Apple phones.
 [url=http://pcstarters.net/performance-maintainer]Performance Maintainer[/url] A multi-purpose tool that runs on Windows systems.
 [url=https://www.playonlinux.com]PlayOnLinux[/url] A tool based off Wine that allows you to run Windows software on Linux.
