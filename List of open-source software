@@ -11,12 +11,12 @@ Note: Steam store pages are included at the bottom of the list.
 [b]Games and game related software:[/b]
 [url=https://play0ad.com]0 A.D.[/url] A RTS game based in 300BC - 1BC that runs on all systems.
 [url=https://atomicgameengine.com]Atomic Game Engine[/url] A 3D game engine that can run on all systems.
-[url=https://wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements hat runs on all systems.
+[url=https://wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements that runs on all systems.
 [url=https://blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems.
 [url=https://endless-sky.github.io]Endless Sky[/url] A space exploration and combat game that runs on all systems.
 [url=http://flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
 [url=https://godotengine.org]Godot Engine[/url] Advanced, feature packed, multi-platform 2D and 3D game engine that runs on all systems.
-[url=http://gzdoom.drdteam.org]GZDoom[/url] A source port engien for ID Tech 1 that adds endless possibilities and OpenGL that runs on all systems
+[url=http://gzdoom.drdteam.org]GZDoom[/url] A source port engine for ID Tech 1 that adds endless possibilities and OpenGL that runs on all systems
 [url=https://hedgewars.org]Hedgewars[/url] Turn-based strategy artillery game that runs on all systems.
 [url=http://mamedev.org/]MAME[/url] An emulator designed to preserve decades of software history that runs on Windows systems.
 [url=https://megaglest.org]MegaGlest[/url] A RTS game that runs on Windows and Linux.
@@ -60,12 +60,12 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://modsecurity.org]Mod Security[/url] A web application firewall that runs on all systems.
 [url=http://winhelp2002.mvps.org/hosts.htm]MVPS Host[/url] A host file that is used to block bad websites that runs on all systems.
 [url=https://openssl.org]OpenSSL[/url] A toolkit for SSL and TSL protocols
-[url=https://openvpn.net]OpenVPN[/url] An VPN service and client that runs on all systems.
+[url=https://openvpn.net]OpenVPN[/url] A VPN service and client that runs on all systems.
 [url=https://ossec.github.io]OSSEC[/url] A host intrusion detection system that can run on all systems.
 [url=http://retroshare.sourceforge.net]Retroshare[/url] Serverless encrypted instant messenger with filesharing, chatgroups, e-mail that runs on all systems.
 [url=https://snort.org]Snort[/url] An intrusion prevention system that runs on all systems.
 [url=https://softether.org]SoftEther VPN[/url] A VPN client that runs on all systems.
-[url=https://torproject.org]TOR[/url] An a encrypted anonymous web browser that runs on all systems.
+[url=https://torproject.org]TOR[/url] A a encrypted anonymous web browser that runs on all systems.
 [url=https://github.com/gorhill/uBlock]uBlock Origin[/url] A lightweight adblock that runs on Chrome, Firefox, Opera and Safari web browsers.
 [url=https://veracrypt.codeplex.com]Veracrypt[/url] A disk and file encryption based off Truecrypt that runs on all systems.
 [url=https://virtualbox.org]VirtualBox[/url] A virtual machine for creating virtual operating systems that runs on all systems.
@@ -75,7 +75,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=http://7-zip.org]7-Zip[/url] An archiver with high compression ratios that run on all systems.
 [url=https://libreoffice.org]LibreOffice[/url] A powerful office suite that runs on all systems.
 [url=https://openoffice.org]OpenOffice[/url] An office suite with lots of features that runs on all systems.
-[url=http://peazip.org]PeaZip[/url] A full-features archives that runs on Windows and Linux.
+[url=http://peazip.org]PeaZip[/url] A full-feature archiver that runs on Windows and Linux.
 
 [b]Operating systems:[/b]
 [url=https://archlinux.org]Arch[/url] A lightweight and flexible rolling release Linux system that tries to keep it simple.
@@ -108,7 +108,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://zorinos.com/index.html]Zorin OS[/url] A Linux system based off Ubuntu that is designed to look like Windows operating systems.
 
 [b]Paint and art related software:[/b]
-[url=https://krita.org]Krita[/url] A scetching and painting program that runs on all systems.
+[url=https://krita.org]Krita[/url] A sketching and painting program that runs on all systems.
 [url=https://mypaint.org]MyPaint[/url] A painting program that runs on Windows and Linux.
 
 [b]Peer-to-Peer (P2P) and File Transfer Protocol (FTP) related software:[/b]
@@ -166,7 +166,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://palemoon.org]Pale Moon[/url] A web browser that focuses of effiency and ease of use that runs on Windows and Linux systems.
 [url=https://phpbb.com]phpBB[/url] A forum creator for web developers.
 [url=https://postgresql.org]PostgreSQL[/url] A database for websites.
-[url=http://www.qupzilla.com/]QuadZilla[/url] A Lightweight web browser that runs on all systems.
+[url=http://www.qupzilla.com/]QupZilla[/url] A Lightweight web browser that runs on all systems.
 [url=https://seamonkey-project.org]SeaMonkey[/url] A web browser and email client based off Firefox and ThunderBird that runs on all systems.
 [url=https://waterfoxproject.org]Waterfox[/url] A native 64-bit web browser based off Firefox that runs on Windows and Mac systems.
 [url=https://wordpress.org]WordPress[/url] A website and blog maker for web developers.
