@@ -14,8 +14,10 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://atomicgameengine.com]Atomic Game Engine[/url] A 3D game engine that can run on all systems.
 [url=https://wesnoth.org]Battle for Wesnoth[/url] Turn-based tactical strategy game with RPG elements that runs on all systems.
 [url=https://blender.org]Blender[/url] A 3D gaming and animation engine that runs on all systems.
+[url=http://dengine.net]Doomsday Engine[/url] A Doom, source port engine with 3D model support that runs on all systems.
 [url=https://endless-sky.github.io]Endless Sky[/url] A space exploration and combat game that runs on all systems.
 [url=http://flightgear.org]FlightGear Flight Simulator[/url] A flying simulator that runs on all systems.
+[url=https://freedoom.github.io/index.html]Freedoom[/url] A stand-alone, FPS, Doom clone that runs on all systems.
 [url=https://godotengine.org]Godot Engine[/url] Advanced, feature packed, multi-platform 2D and 3D game engine that runs on all systems.
 [url=http://gzdoom.drdteam.org]GZDoom[/url] A source port engine for ID Tech 1 that adds endless possibilities and OpenGL that runs on all systems
 [url=https://hedgewars.org]Hedgewars[/url] Turn-based strategy artillery game that runs on all systems.
@@ -106,6 +108,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=http://papyros.io]Papyro[/url] A linux system design to bring more modern features and material design.
 [url=http://web.pcbsd.org]PC-BSD[/url] A BSD system designed for server use and a more desktop friendly environment.
 [url=http://puppylinux.org/main/Overview%20and%20Getting%20Started.htm]Puppy Linux[/url] A linux system designed to be fast, safe and portable.
+[url=https://solus-project.com]Solus[/url] A Linux distrubution built from scratch designed for modern personal computing devices.
 [url=https://reactos.org]ReactOS[/url] A operating system that can run most Windows software and drivers.
 [url=https://www.scientificlinux.org]Scientific Linux[/url] A linux based operating system designed for enterprise use.
 [url=https://web.syllable.org/pages/index.html]Syllable[/url] A Linux operating system that recreates Amiga and BeOS.
@@ -158,6 +161,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://python.org]Python[/url] A programming language that runs on all systems.
 [url=https://qt.io]Qt Creator[/url] IDE that runs on all systems.
 [url=https://ruby-lang.org/en]Ruby[/url] A dynamic programming language which focuses on simplicity and productivity that runs on all systems.
+[url=https://www.rust-lang.org/en-US/index.html]Rust[/url] A programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety that runs on all systems.
 [url=https://scala-lang.org/index.html]Scala[/url] A programming language which focuses on maximum code reuse and extensibility that runs on Linux an Windows systems.
 [url=https://sharpdx.org]SharpDX[/url] A managed .NET wrapper of the DirectX API for Windows systems.
 [url=https://wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
@@ -182,15 +186,16 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://asterisk.org]Asterisk[/url] A framework for building communications applications for Linux systems.
 [url=https://github.com/brndnmtthws/conky]Conky[/url] A light-weight system monitor for Linux systems.
 [url=https://drupal.org]Drupal[/url] A content management framework that runs on all systems.
+[url=https://evergreen-ils.org]Evergreen[/url] A highly-scalable software for libraries that helps find library materials that runs on all systems.
 [url=https://f-droid.org]F-Droid[/url] A respository to keep track of FOSS related apps for mobile Android.
 [url=https://www.freetype.org/index.html]FreeType[/url] A software library to render fonts that runs on Windows and Linux systems.
 [url=https://git-scm.com]Git[/url] A version control system designed for speed and effiency that runs on all systems.
 [url=https://gnome.org]GNOME[/url] A desktop environment that runs on Linux systems.
 [url=http://www.gnucash.org]GNU Cash[/url] A small financial-accounting software that runs on all systems.
 [url=https://jrsoftware.org/isinfo.php]Inno Setup[/url] A installer for Windows systems.
-[url=https://evergreen-ils.org]Evergreen[/url] A highly-scalable software for libraries that helps find library materials that runs on all systems.
 [url=https://lmms.io]LMMS[/url] A tool used to create different types of music that can run on all systems.
 [url=https://lutris.net]Lutris[/url] A gaming platform for Linux systems.
+[url=http://www.mesa3d.org/intro.html]Mesa 3D[/url] A system for rendering 3D graphics that runs on all systems.
 [url=https://moodle.org]Moodle[/url] An online education system.
 [url=http://nsis.sourceforge.net/Main_Page]NSIS[/url] A installer for Windows systems.
 [url=https://obsproject.com]Open Broadcast[/url] A program for streaming and screen recording that runs on all systems.
