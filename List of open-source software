@@ -91,6 +91,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=http://dragonflybsd.org]DrangonFly BSD[/url] A high performance operating system based off the BSD family.
 [url=http://edubuntu.org]Edubuntu[/url] A Linux system based of Ubuntu designed for educational purposes.
 [url=https://elementary.io]Elementary OS[/url] A operating system design to be a replacement for Windows and Mac.
+[url=https://endlessos.com/home]Endless OS[/url] A offline operating system, based off Debain that runs ontop of any operating system.
 [url=https://getfedora.org]Fedora[/url] An advanced technological operating system.
 [url=https://freebsd.org]FreeBSD[/url] An advanced operating systems with high performance ratings.
 [url=https://gentoo.org]Gentoo[/url] Source-based, rolling release Linux system.
@@ -140,6 +141,7 @@ Note: Steam store pages are included at the bottom of the list.
 
 [b]Text and programming related software:[/b]
 [url=https://atom.io]Atom[/url] A hackable text editor that runs on all systems.
+[url=http://www.cprogramming.com]C/C++[/url] A static programming language, widely used in gaming and professional software, that can run on all systems.
 [url=https://clojure.org]Clojure[/url] A robust, practical, and fast programming language that runs on all systems.
 [url=https://codeblocks.org]Code::Blocks[/url] A integrated platform for development in C and C ++ language that runs on all systems.
 [url=https://crystal-lang.org]Crystal[/url] A programming language designed to be able to call C code and have syntax similar to Ruby that runs on Mac and Linux systems.
@@ -155,6 +157,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://lua.org]Lua[/url] A powerful, fast scripting language that runs on all systems.
 [url=http://gnu.org/software/ncurses/ncurses.html]Ncurses[/url] A software emulation of curses in System V Release 4.0 that runs on Linux and Mac systems.
 [url=https://notepad-plus-plus.org]Notepad++[/url] A notepad and source code editor that runs on Windows systems.
+[url=http://notepadqq.altervista.org/wp]Notepadqq[/url] A text and source code editor, designed to be like Notepad++, for Linux systems.
 [url=https://opencv.org]OpenCV[/url] A computer vision and machine learning software library that runs on all systems.
 [url=https://opentk.com]Open Toolkit[/url] A low-level, C# library that wraps OpenGL, OpenCL and OpenAL that runs on all systems.
 [url=https://perl.org]Perl[/url] A programming language that runs on all systems.
@@ -165,6 +168,7 @@ Note: Steam store pages are included at the bottom of the list.
 [url=https://scala-lang.org/index.html]Scala[/url] A programming language which focuses on maximum code reuse and extensibility that runs on Linux an Windows systems.
 [url=https://sharpdx.org]SharpDX[/url] A managed .NET wrapper of the DirectX API for Windows systems.
 [url=https://wiki.gnome.org/Projects/Vala]Vala[/url] A programming language that brings modern programming features to GNOME developers that runs on all systems.
+[url=https://code.visualstudio.com]Visual Studio Code[/url] A source code editor with build in Git tools that runs on all systems.
 
 [b]Web browsers and web related software:[/b]
 [url=https://brave.com]Brave[/url] A web browser that automatically blocks ads and tracking that runs on all systems.
